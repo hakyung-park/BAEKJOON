@@ -1,1 +1,2 @@
-# BAEKJOON
+#### 백준이라고 해놓고 여러 잡다한 곳의 풀이를 몰아놓는 곳
+#### Language : Python3
